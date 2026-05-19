@@ -1,0 +1,38 @@
+# Android
+.gradle/
+build/
+local.properties
+*.iml
+.idea/
+.DS_Store
+captures/
+.externalNativeBuild
+.cxx
+*.keystore
+!debug.keystore
+
+# Built visuals
+*.apk
+*.aar
+*.jar
+
+# Workspace
+.idea/
+*.iml
+*.iws
+
+# User-specific
+.idea/libraries/
+.idea/modules.xml
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/assetWizardSettings.xml
+.idea/deploymentTargetSelector.xml
+.idea/caches/
+
+# System files
+Thumbs.db
+desktop.ini
+
+# Large files
+app recording.webm

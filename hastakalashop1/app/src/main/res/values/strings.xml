@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Hasta-Kala Shop</string>
+    <string name="title_home">Home</string>
+    <string name="title_categories">Categories</string>
+    <string name="title_wishlist">Wishlist</string>
+    <string name="title_profile">Profile</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
+</resources>
